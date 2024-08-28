@@ -3,4 +3,5 @@ MATLAB scripts used in support of academic paper "Effects of tidal range and sig
 
 These scripts were used to import and process Delft3D simulation data, as well as producing plots and animations related to the above manuscript (soon to be submitted at time of writing).
 When importing using dttMapImportDD.m or dttHistoryImportDD.m, select the 1st map file of the desired simulation (i.e. <trim*_01.dat> or <trih*_01.dat>).
-Running these scripts will also require the Delft3D-MATLAB toolkit
+
+Note that running these scripts will also require installation of the Delft3D-MATLAB toolkit.
